@@ -1,0 +1,10 @@
+E:\Taras\Project\C_charp\FirstGame\FirstGame\bin\Debug\FirstGame.exe.config
+E:\Taras\Project\C_charp\FirstGame\FirstGame\bin\Debug\FirstGame.exe
+E:\Taras\Project\C_charp\FirstGame\FirstGame\bin\Debug\FirstGame.pdb
+E:\Taras\Project\C_charp\FirstGame\FirstGame\obj\Debug\FirstGame.csprojResolveAssemblyReference.cache
+E:\Taras\Project\C_charp\FirstGame\FirstGame\obj\Debug\FirstGame.FormGame.resources
+E:\Taras\Project\C_charp\FirstGame\FirstGame\obj\Debug\FirstGame.Properties.Resources.resources
+E:\Taras\Project\C_charp\FirstGame\FirstGame\obj\Debug\FirstGame.csproj.GenerateResource.cache
+E:\Taras\Project\C_charp\FirstGame\FirstGame\obj\Debug\FirstGame.csproj.CoreCompileInputs.cache
+E:\Taras\Project\C_charp\FirstGame\FirstGame\obj\Debug\FirstGame.exe
+E:\Taras\Project\C_charp\FirstGame\FirstGame\obj\Debug\FirstGame.pdb
